@@ -1,6 +1,6 @@
 ### Paige.js with jsrocco - *Painless page generation for Github code*
 
-Fork from Paige.js to integrate with [jsocco](https://github.com/luuvish/jsocco) to support /*...*/ style comments.
+Fork from Paige.js to integrate with [jsocco](https://github.com/luuvish/jsocco) to support /\*...\*/ style comments.
 
 Paige.js is a simple npm package for creating instant [Github Pages](http://pages.github.com/) without having to deal with any HTML *or* CSS coding. Paige let's you just focus on your code while providing a clean and presentable face for your project. The project page for Paige, itself, was generated with paige.js.
 
