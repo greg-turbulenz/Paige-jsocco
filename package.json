@@ -1,33 +1,33 @@
 {
-  "name":         "paige",
-  
-  "description":  "The quickie-wiki Github project page generator",
-  
-  "keywords":     ["docs", "project", "page", "generator", "coffeescript", "docco", "documentation", "site"],
-  
-  "author":       "Rodrigo Thauby",
-  
+  "name":         "paige-jsocco",
+
+  "description":  "The quickie-wiki Github project page generator with jsocco support",
+
+  "keywords":     ["docs", "project", "page", "generator", "coffeescript", "docco", "documentation", "site", "jsocco"],
+
+  "author":       "Gregor Schwab",
+
   "version":      "0.1.5",
-  
-  "dependencies": { 
+
+  "dependencies": {
     "underscore" :"*"
   },
-  
+
   "licenses": [{
     "type" :      "MIT",
     "url" :       "http://opensource.org/licenses/mit-license.php"
   }],
-  
+
   "engines": {
     "node" :      ">=0.2.0"
   },
-  
+
   "directories": {
     "lib" :       "./lib"
   },
-  
+
   "main" :        "./lib/paige",
-  
+
   "bin": {
     "paige" :     "./bin/paige"
   }
